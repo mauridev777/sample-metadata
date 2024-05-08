@@ -1,0 +1,12 @@
+{
+    "name": "My Solana TEST Token",
+    "symbol": "MSTT",
+    "description": "This is a test token created using the Solana SPL 2022 Token program.",
+    "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/DeveloperPortal/image.png",
+    "attributes": [
+        {
+            "trait_type": "Item",
+            "value": "Developer Portal"
+        }
+    ]
+}
