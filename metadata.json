@@ -3,7 +3,7 @@
     "symbol": "Bdogs",
     "description": "My name is Bones and I'm a whippet-minpin mix. I'm head of security at Drexler, but I just nap and act cute most of the time. When I grow up I am going to be a sweet potato farmer.",
     "image": "https: //pbs.twimg.com/profile_images/658810139579781120/xSq6XyDl_400x400.png",
-    "uri": "https://bones.dog/json",
+    "uri": "https://raw.githubusercontent.com/mauridev777/sample-metadata/main/metadata.json",
     "additionalMetadata": [
         [
             "website",
