@@ -1,12 +1,21 @@
 {
-    "name": "My Solana TEST Token",
-    "symbol": "MSTT",
-    "description": "This is a test token created using the Solana SPL 2022 Token program.",
-    "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/DeveloperPortal/image.png",
-    "attributes": [
-        {
-            "trait_type": "Item",
-            "value": "Developer Portal"
-        }
+    "name": "Bones Dogs",
+    "symbol": "Bdogs",
+    "description": "My name is Bones and I'm a whippet-minpin mix. I'm head of security at Drexler, but I just nap and act cute most of the time. When I grow up I am going to be a sweet potato farmer.",
+    "image": "https: //pbs.twimg.com/profile_images/658810139579781120/xSq6XyDl_400x400.png",
+    "uri": "https://bones.dog/json",
+    "additionalMetadata": [
+        [
+            "website",
+            "https://bones.dog/"
+        ],
+        [
+            "twitter",
+            "https://twitter.com/bonesdotdog"
+        ],
+        [
+            "instagram",
+            "https://www.instagram.com/bones.dog"
+        ]
     ]
 }
